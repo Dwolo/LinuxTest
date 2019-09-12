@@ -6,4 +6,3 @@ test=$str1
 var=$test | sha1sum
 echo $
 #falta corregir
-#corregido en otro archivo
