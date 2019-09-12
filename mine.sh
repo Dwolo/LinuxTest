@@ -5,4 +5,3 @@ sha=$str | sha1sum
 test=$str1
 var=$test | sha1sum
 echo $
-#falta corregir
